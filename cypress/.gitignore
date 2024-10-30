@@ -1,6 +1,0 @@
-node_modules/
-node_modules/
-downloads/
-.env
-cypress.env.json
-package-lock.json
